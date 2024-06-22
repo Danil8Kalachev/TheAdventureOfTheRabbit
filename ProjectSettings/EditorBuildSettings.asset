@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Source/Scenes/Menu.unity
+    guid: 0d1ec90a1da64324286fccf799f153ee
+  - enabled: 1
+    path: Assets/Source/Scenes/House.unity
+    guid: 9e4a789d7c49086408f37a4f9664c5bf
+  - enabled: 1
+    path: Assets/Source/Scenes/LevelOne.unity
+    guid: 6ce1c579a97b5f24aafc0ad423a71e27
+  - enabled: 1
+    path: Assets/Source/Scenes/LevelTwo.unity
+    guid: 37b8c05e5ac09ff448ce80c43a1ffad5
+  - enabled: 1
+    path: Assets/Source/Scenes/LevelThree.unity
+    guid: cf957cf2fab497e4fa6373c0ff3232af
+  - enabled: 1
+    path: Assets/Source/Scenes/LevelFour.unity
+    guid: 46e89fd0dde449d4aa306e8d8110270e
+  - enabled: 1
+    path: Assets/Source/Scenes/LevelFive.unity
+    guid: aa0806b20b5ae68408e278c4507b989a
+  - enabled: 1
+    path: Assets/Source/Scenes/HouseTheEndGame.unity
+    guid: 2c9075a3bf3fecd498006f89c68d5264
+  m_configObjects: {}
